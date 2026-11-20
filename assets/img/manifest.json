@@ -1,0 +1,1370 @@
+{
+ "s-gan-villa/sg_c3": {
+  "w": 2048,
+  "h": 1536,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_c4": {
+  "w": 2048,
+  "h": 1536,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_c6": {
+  "w": 2048,
+  "h": 1536,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_c9": {
+  "w": 2048,
+  "h": 1536,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_c1": {
+  "w": 1536,
+  "h": 2048,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c2": {
+  "w": 1536,
+  "h": 2048,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c5": {
+  "w": 1536,
+  "h": 2048,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c7": {
+  "w": 1536,
+  "h": 2048,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c8": {
+  "w": 1351,
+  "h": 2400,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c10": {
+  "w": 1536,
+  "h": 2048,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_c12": {
+  "w": 1351,
+  "h": 2400,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_r1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_r2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_r3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_r4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_b1": {
+  "w": 2400,
+  "h": 1800,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "s-gan-villa/sg_b2": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_b3": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_b4": {
+  "w": 1800,
+  "h": 2400,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_p1": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_p2": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_p3": {
+  "w": 1600,
+  "h": 1200,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "s-gan-villa/sg_p4": {
+  "w": 1200,
+  "h": 1600,
+  "widths": [
+   640
+  ]
+ },
+ "strata-yercaud/str2_5": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_1": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_2": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_3": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_4": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_6": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/str2_7": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_6": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_2": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_3": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_4": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_5": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_7": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_8": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_p0": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_p1": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_p2": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_p3": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_d1": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "strata-yercaud/st_d2": {
+  "w": 2400,
+  "h": 1358,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_2": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_1": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_3": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_4": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_5": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_6": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_7": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_8": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_9": {
+  "w": 3840,
+  "h": 2160,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "aravindhan-residence/ar_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "aravindhan-residence/ar_2": {
+  "w": 1729,
+  "h": 910,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "aravindhan-residence/ar_3": {
+  "w": 1448,
+  "h": 1086,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "residences-tamil-nadu/rk_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/dn_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/dn_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/kn_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/kn_2": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/lk_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/lk_2": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "residences-tamil-nadu/lk_3": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "lakeside-farmhouse/fh_1": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "lakeside-farmhouse/fh_2": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "lakeside-farmhouse/fh_3": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "lakeside-farmhouse/fh_4": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "mixed-use-development/mu_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "mixed-use-development/mu_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "mixed-use-development/mu_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "mixed-use-development/mu_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "mixed-use-development/mu_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "tata-corporate-office/tt_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "tata-corporate-office/tt_2": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "thozhi-womens-hostel/th_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "thozhi-womens-hostel/th_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "thozhi-womens-hostel/th_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "alpha-multispeciality-hospital/ah_6": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_2": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_3": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_4": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_5": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "architectural-institute/ai_6": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "performing-arts-centre/vp_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "performing-arts-centre/vp_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "performing-arts-centre/vp_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "performing-arts-centre/vp_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "performing-arts-centre/vp_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "isro-campus-visualisation/isro_6": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "elidi-stadia/eli_6": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "maritime-heritage-complex/nh_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "maritime-heritage-complex/nh_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "maritime-heritage-complex/nh_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "maritime-heritage-complex/nh_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "maritime-heritage-complex/nh_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pavilion-csa/pv_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pavilion-csa/pv_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pavilion-csa/pv_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pond-park-sivakasi/pp_1": {
+  "w": 2400,
+  "h": 1382,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pond-park-sivakasi/pp_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pond-park-sivakasi/pp_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pond-park-sivakasi/pp_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pond-park-sivakasi/pp_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "jithu-residence-interiors/jr_6": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "church-interior-chromepet/ch_1": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "church-interior-chromepet/ch_2": {
+  "w": 1280,
+  "h": 720,
+  "widths": [
+   640,
+   1280
+  ]
+ },
+ "archdais-interior-competition/ad_1": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_2": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_3": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_4": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_5": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_6": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_7": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "archdais-interior-competition/ad_8": {
+  "w": 2400,
+  "h": 1350,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "cubro-operating-theatre/cb_d1": {
+  "w": 2400,
+  "h": 1640,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "cubro-operating-theatre/cb_d2": {
+  "w": 2400,
+  "h": 1677,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "cubro-operating-theatre/cb_d3": {
+  "w": 2400,
+  "h": 1494,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "cubro-operating-theatre/cb_d4": {
+  "w": 2400,
+  "h": 1569,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "cubro-operating-theatre/cb_d5": {
+  "w": 2400,
+  "h": 1870,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pitau-travertine-facade/pt_d1": {
+  "w": 2400,
+  "h": 1047,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pitau-travertine-facade/pt_d2": {
+  "w": 2400,
+  "h": 1491,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pitau-travertine-facade/pt_d3": {
+  "w": 2400,
+  "h": 1459,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "pitau-travertine-facade/pt_d4": {
+  "w": 2400,
+  "h": 1434,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "team/tm_srk": {
+  "w": 900,
+  "h": 1200,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "team/tm_ridhima": {
+  "w": 673,
+  "h": 897,
+  "widths": [
+   480
+  ]
+ },
+ "team/tm_bharath": {
+  "w": 460,
+  "h": 613,
+  "widths": [
+   460
+  ]
+ },
+ "team/tm_mohana": {
+  "w": 843,
+  "h": 1124,
+  "widths": [
+   480
+  ]
+ },
+ "team/tm_nivetha": {
+  "w": 842,
+  "h": 1122,
+  "widths": [
+   480
+  ]
+ },
+ "team/tm_venkata": {
+  "w": 841,
+  "h": 1121,
+  "widths": [
+   480
+  ]
+ },
+ "team/tm_shiva": {
+  "w": 900,
+  "h": 1200,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "team/tm_kannan": {
+  "w": 900,
+  "h": 1200,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "team/tm_kavitha": {
+  "w": 900,
+  "h": 1200,
+  "widths": [
+   480,
+   900
+  ]
+ },
+ "strata-yercaud/str2_5-sketch": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_2-sketch": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ },
+ "prabu-residence-kumbakonam/pr_4-sketch": {
+  "w": 1920,
+  "h": 1080,
+  "widths": [
+   640,
+   1280,
+   1920
+  ]
+ }
+}

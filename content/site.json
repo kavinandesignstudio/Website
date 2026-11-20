@@ -1,0 +1,68 @@
+{
+  "name": "Kavinan Design Studio",
+  "short_name": "Kavinan",
+  "tagline": "Rooted with design",
+  "legal_name": "Kavinan Design Studio",
+  "url": "https://www.kavinandesignstudio.com",
+  "description": "Kavinan Design Studio is an architecture, interior design, landscape, project management and design + build firm in Chennai and Kumbakonam, Tamil Nadu, delivering homes, hotels, hospitals and public projects from first sketch to handover.",
+  "founded": "",
+  "founder": "Ar. SRK (Sivaramakrishnan S K)",
+  "phones": ["+91 900 343 4422", "+91 96 777 51881"],
+  "whatsapp": "919003434422",
+  "emails": ["ar.srk@kavinandesignstudio.com", "kavinandesignstudio@gmail.com"],
+  "hours": "Mon – Sat · 9:30 am – 6:30 pm",
+  "offices": [
+    {
+      "id": "chennai",
+      "label": "Chennai Studio",
+      "street": "#3, SUS Palace, Vivekanandhar Street, Srinivasa Nagar",
+      "locality": "New Perungalathur",
+      "city": "Chennai",
+      "region": "Tamil Nadu",
+      "postal": "600063",
+      "country": "IN",
+      "map": "https://www.google.com/maps/search/?api=1&query=Kavinan+Design+Studio+New+Perungalathur+Chennai",
+      "embed": "https://www.google.com/maps?q=Srinivasa+Nagar,+New+Perungalathur,+Chennai+600063&output=embed",
+      "_note": "add lat/lng from Google Maps if desired"
+    },
+    {
+      "id": "kumbakonam",
+      "label": "Regd. Office · Kumbakonam",
+      "street": "1/434, Rajiv Nagar, Umamaheswarapuram, Ullur",
+      "locality": "Ullur",
+      "city": "Kumbakonam",
+      "region": "Tamil Nadu",
+      "postal": "612103",
+      "country": "IN",
+      "map": "https://www.google.com/maps/search/?api=1&query=Rajiv+Nagar+Umamaheswarapuram+Ullur+Kumbakonam+612103",
+      "embed": "https://www.google.com/maps?q=Umamaheswarapuram,+Ullur,+Kumbakonam+612103&output=embed",
+      "_note": "add lat/lng from Google Maps if desired"
+    }
+  ],
+  "areas_served": ["Chennai", "Kumbakonam", "Thanjavur", "Tiruchirappalli", "Madurai", "Dindigul", "Theni", "Mayiladuthurai", "Cuddalore", "Salem", "Yercaud", "Coimbatore", "Tamil Nadu", "India", "New Zealand"],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "linkedin": "",
+    "youtube": "",
+    "pinterest": "",
+    "houzz": ""
+  },
+  "form": {
+    "provider": "web3forms",
+    "endpoint": "https://api.web3forms.com/submit",
+    "access_key": "",
+    "_help": "Get a free access key at web3forms.com (enter kavinandesignstudio@gmail.com) and paste it above. Use provider 'netlify' with endpoint '' if you ever host on Netlify."
+  },
+  "analytics": {
+    "ga4_id": "",
+    "google_site_verification": "",
+    "bing_site_verification": ""
+  },
+  "stats": [
+    { "value": 24, "suffix": "+", "label": "Projects designed" },
+    { "value": 6, "suffix": "", "label": "Sectors" },
+    { "value": 2, "suffix": "", "label": "Countries served" },
+    { "value": 9, "suffix": "", "label": "Specialists in-house" }
+  ]
+}

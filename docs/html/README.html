@@ -1,0 +1,71 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>README — Kavinan Design Studio</title><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;500&family=DM+Sans:wght@400;600&display=swap"><style>body{font:16px/1.7 'DM Sans',system-ui,sans-serif;max-width:860px;margin:0 auto;padding:40px 20px 80px;color:#12241e;background:#f7f5f0}h1,h2,h3{font-family:Outfit,system-ui,sans-serif;font-weight:300;line-height:1.15}h1{font-size:3rem}h2{font-size:2rem;margin-top:2.2em;border-top:1px solid #0002;padding-top:.8em}a{color:#b8460f}table{border-collapse:collapse;width:100%;font-size:.92rem;margin:1em 0}th,td{border-bottom:1px solid #0002;padding:8px 10px 8px 0;text-align:left;vertical-align:top}pre{background:#171613;color:#ece8df;padding:16px;overflow:auto;border-radius:4px}code{font-family:Consolas,monospace;font-size:.9em}blockquote{border-left:3px solid #f26122;margin:1.5em 0;padding-left:1em;font-style:italic}nav{margin-bottom:30px;font-size:.85rem}hr{border:0;border-top:1px solid #0002;margin:2em 0}@media (prefers-color-scheme:dark){body{background:#0c221b;color:#eef2ee}a{color:#f5884f}th,td,h2{border-color:#fff2}}</style></head><body><nav><a href="README.html">Readme</a> · <a href="DESIGN-STUDY.html">Design Study</a> · <a href="HOSTING-GITHUB-ZOHO.html">Hosting Github Zoho</a> · <a href="SEO-GUIDE.html">Seo Guide</a></nav><h1 id="kavinan-design-studio-website-package">Kavinan Design Studio — Website Package</h1>
+<p><strong>www.kavinandesignstudio.com</strong> · Architecture · Interior Design · Landscape · Project Management · Design + Build</p>
+<p>A fast, SEO-ready, multi-page website with light and dark mode, built from your portfolio, project images, logos and team photos — plus an automatic journal and FAQ publisher.</p>
+<hr>
+<h2 id="1-what-s-in-the-box">1. What's in the box</h2>
+<div class="table-wrap"><table><thead><tr><th>Folder / file</th><th>What it is</th></tr></thead><tbody><tr><td><code>OPEN WEBSITE.html</code></td><td><strong>Double-click to view the site on your computer.</strong></td></tr><tr><td><code>Preview Website.bat</code></td><td>Double-click for a full local preview at http://localhost:8000.</td></tr><tr><td><code>offline/</code></td><td>Copy of the site that opens from a local drive (made by <code>python build.py --offline</code>).</td></tr><tr><td><code>public/</code></td><td><strong>The finished website for the web server</strong> (46 pages). Built automatically on GitHub.</td></tr><tr><td><code>content/</code></td><td><strong>Everything you edit</strong> — text, projects, team, FAQs, journal posts.</td></tr><tr><td><code>assets/</code></td><td>Stylesheet, JavaScript, optimised images (WebP), logos, favicons.</td></tr><tr><td><code>build.py</code></td><td>Turns <code>content/</code> into <code>public/</code>. No installs needed — just Python.</td></tr><tr><td><code>tools/optimize_images.py</code></td><td>Converts new photos into fast responsive WebP images.</td></tr><tr><td><code>tools/make_sketches.py</code></td><td>Turns selected renders into pencil sketches for the sketch → render effects.</td></tr><tr><td><code>illustrations.py</code></td><td>The hand-drawn line illustrations used across the site.</td></tr><tr><td><code>tools/auto_post.py</code></td><td>Writes journal articles + FAQs automatically from your studio updates (Claude AI).</td></tr><tr><td><code>.github/workflows/publish.yml</code></td><td>Builds &amp; publishes to GitHub Pages on every push and every morning at 06:00 IST (plus the AI writer).</td></tr><tr><td><code>netlify.toml</code></td><td>Optional: settings if you ever host on Netlify instead.</td></tr><tr><td><code>docs/HOSTING-GITHUB-ZOHO.md</code></td><td><strong>Step-by-step go-live guide</strong> for GitHub Pages + your Zoho domain.</td></tr><tr><td><code>docs/SEO-GUIDE.md</code></td><td><strong>Your step-by-step SEO guide</strong> — start here after launch.</td></tr><tr><td><code>docs/DESIGN-STUDY.md</code></td><td>The research and design rationale behind the site.</td></tr></tbody></table></div>
+<h3 id="pages">Pages</h3>
+<p>Home · Studio · Services (+5 service pages) · Projects (+22 project pages) · AI Platform (coming soon) · Team · Journal (+posts) · FAQ · Contact · Privacy · Thank-you · 404 · plus <code>sitemap.xml</code>, <code>robots.txt</code>, <code>feed.xml</code> (RSS), <code>llms.txt</code> (for AI search), <code>manifest.webmanifest</code>.</p>
+<hr>
+<h2 id="2-preview-on-your-computer">2. Preview on your computer</h2>
+<p><strong>Easiest: double-click <code>OPEN WEBSITE.html</code></strong> in this folder. It opens the offline copy (<code>offline/index.html</code>), which works straight from your drive or a USB stick, no installs needed. (Fonts and maps load when you're online; everything else works offline.)</p>
+<p><strong>Full preview (exactly like the live site):</strong> double-click <strong><code>Preview Website.bat</code></strong>. It rebuilds the site and opens http://localhost:8000. Keep the black window open while browsing. Or run it yourself:</p>
+<pre><code>python build.py --serve</code></pre>
+<p><strong>After editing content</strong>, refresh the offline copy with:</p>
+<pre><code>python build.py --offline</code></pre>
+<blockquote><p>Why not <code>public/index.html</code>? That folder is the version for the web server: its links start with <code>/</code>, which on a local drive points to the root of <code>D:</code>. That's why pages looked broken when opened directly. Use <code>OPEN WEBSITE.html</code> or the <code>.bat</code> file instead.</p></blockquote>
+<hr>
+<h2 id="3-go-live-github-pages-zoho-domains">3. Go live — GitHub Pages + Zoho Domains</h2>
+<p>Follow <strong><a href="docs/HOSTING-GITHUB-ZOHO.md">docs/HOSTING-GITHUB-ZOHO.md</a></strong>, which covers it step by step:</p>
+<ol><li>Put this <code>website</code> folder on GitHub with <strong>GitHub Desktop</strong> (repository name <code>USERNAME.github.io</code>, public).</li><li>Settings → Pages → Source: <strong>GitHub Actions</strong>. The included workflow builds and publishes the site.</li><li>In <strong>Zoho Domains → DNS Management</strong> add 4 <strong>A</strong> records for <code>@</code> (185.199.108–111.153) and a <strong>CNAME</strong></li></ol>
+<p><code>www → USERNAME.github.io</code>. Leave your Zoho Mail records (MX, SPF, DKIM) untouched.</p>
+<ol><li>Settings → Pages → custom domain <code>www.kavinandesignstudio.com</code> → <strong>Enforce HTTPS</strong>.</li><li>Get a free <strong>Web3Forms</strong> key and paste it into <code>content/site.json → form → access_key</code> so the forms email you.</li><li>Optional: add the <code>ANTHROPIC_API_KEY</code> secret so Claude writes articles from your updates.</li></ol>
+<p>From then on: edit files → commit &amp; push in GitHub Desktop → live in about 2 minutes. Every morning at 06:00 IST the site also rebuilds itself, releasing scheduled posts.</p>
+<p><strong>Other hosts:</strong> the site also runs on Netlify (<code>netlify.toml</code> included; set <code>form.provider</code> to <code>"netlify"</code>) or any cPanel host (upload <code>public/</code> into <code>public_html</code>; <code>.htaccess</code> included).</p>
+<hr>
+<h2 id="4-editing-content">4. Editing content</h2>
+<p>All text lives in <code>content/</code>. Edit with Notepad, VS Code or any text editor, then rebuild (or just commit &amp; push in GitHub Desktop — GitHub rebuilds and publishes by itself).</p>
+<div class="table-wrap"><table><thead><tr><th>To change…</th><th>Edit</th></tr></thead><tbody><tr><td>Phone, email, addresses, hours, social links, Google Analytics</td><td><code>content/site.json</code></td></tr><tr><td>A project's text, facts or images</td><td><code>content/projects.json</code></td></tr><tr><td>Service pages</td><td><code>content/services.json</code></td></tr><tr><td>Team members and bios</td><td><code>content/team.json</code></td></tr><tr><td>FAQs</td><td><code>content/faqs.json</code></td></tr><tr><td>Quotes on the dark bands</td><td><code>content/quotes.json</code></td></tr><tr><td>Journal articles</td><td><code>content/journal/*.md</code></td></tr></tbody></table></div>
+<p><code>.json</code> files are strict: keep the quotes and commas exactly as they are. If the build shows an error, it names the file and line.</p>
+<h3 id="add-a-journal-post-by-hand">Add a journal post by hand</h3>
+<p>Create <code>content/journal/2026-11-20-my-post.md</code>:</p>
+<pre><code>---
+title: Your headline here
+date: 2026-11-20
+description: One or two sentences (130–160 characters) shown in Google results.
+tags: Homeowners guide, Renovation
+cover: s-gan-villa/sg_c2
+project: s-gan-villa
+---
+Your article in Markdown. Use ## for headings, - for bullet lists, &gt; for a pull quote,
+**bold**, and [links](/contact.html).</code></pre>
+<ul><li><strong>Schedule it:</strong> give it a future <code>date</code>. It stays hidden and goes live automatically on that morning.</li><li><strong>Hide it:</strong> add <code>draft: true</code>.</li><li><code>cover</code> is any image key from <code>assets/img/manifest.json</code> (folder/name without the size).</li></ul>
+<p>Six articles are already scheduled to publish every two weeks until January 2027.</p>
+<h3 id="let-the-studio-write-for-you-automatic">Let the studio write for you (automatic)</h3>
+<p>Drop a 2–3 line note into <code>content/updates/</code> whenever something happens on a project — see <code>content/updates/README.md</code>. Every morning the automation turns new notes into a full article plus 1–3 new FAQs. Every Monday it also writes one practical guide from <code>content/topics.txt</code>. New FAQs show a green <strong>New</strong> badge for three weeks.</p>
+<h3 id="add-a-new-project">Add a new project</h3>
+<ol><li>Keep the project's final images in its own folder, e.g. <code>D:\KDS\Mr. XYZ Residence\Renders\</code>.</li><li>Open <code>tools/optimize_images.py</code> and add a line to <code>SOURCES</code>, pointing at the files:</li></ol>
+<p>``<code>python "xyz-residence": [("xyz_1", "Mr. XYZ Residence/Renders/1.jpg"), ("xyz_2", "Mr. XYZ Residence/Renders/2.jpg")], </code>`<code> Then run </code>pip install pillow numpy<code> (once) and </code>python tools/optimize_images.py`.</p>
+<ol><li>Copy an existing project block in <code>content/projects.json</code>, change the <code>slug</code>, text and image keys</li></ol>
+<p>(<code>xyz-residence/xyz_1</code> …), and rebuild. The project page, sitemap, listings and film strip update themselves.</p>
+<ol><li><strong>Optional pencil sketch:</strong> add the image key (e.g. <code>"xyz-residence/xyz_1"</code>) to <code>SKETCHES</code> in</li></ol>
+<p><code>tools/make_sketches.py</code> and run <code>python tools/make_sketches.py</code>. The project page then gets a drag-to-compare "Sketch → Render" slider automatically.</p>
+<ol><li>Add a note in <code>content/updates/</code> so the journal announces it.</li></ol>
+<h3 id="illustrations-and-animations">Illustrations and animations</h3>
+<ul><li>The hand-drawn line illustrations (architecture, interiors, landscape, PMC, design + build, courtyard</li></ul>
+<p>and the five process stages) live in <code>illustrations.py</code>. They are plain SVG strokes, so they follow light/dark mode and draw themselves as visitors scroll.</p>
+<ul><li>Motion respects visitors who switch on "reduce motion" on their phone or computer: everything still</li></ul>
+<p>shows, just without animation.</p>
+<hr>
+<h2 id="5-please-check-before-launch">5. Please check before launch</h2>
+<p>These are placeholders or details I could not verify from your files:</p>
+<ul><li>☐ <code>content/site.json</code> → <code>hours</code> (set to Mon–Sat 9:30–6:30 as a placeholder)</li><li>☐ <code>content/site.json</code> → <code>social</code> links (Instagram, LinkedIn, Facebook…) — empty ones are hidden</li><li>☐ <code>content/site.json</code> → <code>founded</code> year (optional; used in Google's business data)</li><li>☐ <code>content/team.json</code> → short bios for team members other than Ar. SRK were written from their</li></ul>
+<p>roles — please confirm or replace with real ones</p>
+<ul><li>☐ <code>content/site.json</code> → <code>whatsapp</code> number (set to +91 90034 34422)</li><li>☐ <code>content/site.json</code> → <code>form</code> → <code>access_key</code> from web3forms.com (forms email you once this is set)</li><li>☐ Map pins on the Contact page — replace the <code>embed</code> links with the exact pin from Google Maps</li></ul>
+<p>(<em>Share → Embed a map</em>) once your Google Business Profile is set up</p>
+<ul><li>☐ FAQ answers about timelines and fees — adjust wording to match how you actually work</li></ul>
+<hr>
+<h2 id="6-technical-notes">6. Technical notes</h2>
+<ul><li>Pure static HTML/CSS/JS — no WordPress, no database, nothing to hack or update. Loads fast on 4G.</li><li>Images are WebP in 640 / 1280 / 1920 px with <code>srcset</code>, lazy loading and fixed dimensions (no layout jump).</li><li>Light/dark mode follows the visitor's phone/computer setting and remembers their choice.</li><li>Accessible: skip link, keyboard-navigable menu, lightbox and FAQs, visible focus, reduced-motion support.</li><li>Structured data (JSON-LD): ProfessionalService + GeneralContractor (both offices), WebSite, BreadcrumbList,</li></ul>
+<p>Service, CreativeWork (projects), BlogPosting, FAQPage, Person.</p>
+<ul><li>Fonts: Outfit (headings, geometric like the logo wordmark) + DM Sans (text) from Google Fonts.</li><li>Colours come from the logo: orange <code>#F26122</code> and forest green <code>#126249</code>. Dark mode is deep forest green, not black.</li></ul></body></html>

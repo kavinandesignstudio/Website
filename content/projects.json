@@ -1,0 +1,1401 @@
+[
+  {
+    "slug": "s-gan-villa",
+    "title": "S-Gan Villa",
+    "location": "Madhanandapuram, Chennai",
+    "sector": "residential",
+    "featured": true,
+    "order": 1,
+    "services": [
+      "architecture",
+      "interior-design",
+      "project-management",
+      "design-build"
+    ],
+    "facts": {
+      "Client": "Mr. Sucindran",
+      "Typology": "Residential renovation & extension",
+      "Scope": "Architecture · Interiors · Project Management · Build",
+      "Timeline": "Survey Oct 2025 — Handover Mar 2026",
+      "Status": "Completed 2026"
+    },
+    "summary": "An ageing single-storey house re-imagined as a calm contemporary home — designed and built end-to-end by our team in under six months.",
+    "body": [
+      "An ageing single-storey house in a dense Chennai neighbourhood, re-imagined as a calm contemporary home. The existing load-bearing structure was surveyed, stripped back and re-serviced, then crowned with a new first-floor bedroom suite under a timber-rafter and clay-tile gable roof that gives the street front a warm, traditional silhouette.",
+      "Kavinan Design Studio carried the project end-to-end — measured survey, 3D design, working drawings, procurement, site execution and handover — in under six months. New wiring and plumbing were concealed, floors re-laid, and every room re-planned for light and storage.",
+      "Inside, a modular kitchen with fluted-glass shutters and patterned backsplash, a floating TV wall, full-height timber wardrobes and a spa-like bath with a freestanding tub complete a home that looks entirely new while keeping the memory of the old one."
+    ],
+    "features": [
+      "Design-and-build delivery by one team",
+      "New first-floor suite with clay-tile gable roof",
+      "Complete re-servicing — electrical & plumbing",
+      "Modular kitchen, wardrobes & TV wall joinery",
+      "Before → after documented on site"
+    ],
+    "cover": "s-gan-villa/sg_c3",
+    "images": [
+      {
+        "key": "s-gan-villa/sg_c3",
+        "group": "As built · March 2026",
+        "caption": "Modular kitchen with fluted-glass shutters"
+      },
+      {
+        "key": "s-gan-villa/sg_c2",
+        "group": "As built · March 2026",
+        "caption": "New first-floor bedroom under the clay-tile gable"
+      },
+      {
+        "key": "s-gan-villa/sg_c9",
+        "group": "As built · March 2026",
+        "caption": "Living — floating TV wall & crockery unit"
+      },
+      {
+        "key": "s-gan-villa/sg_c5",
+        "group": "As built · March 2026",
+        "caption": "Bath with freestanding tub"
+      },
+      {
+        "key": "s-gan-villa/sg_c6",
+        "group": "As built · March 2026",
+        "caption": "Full-height timber wardrobes"
+      },
+      {
+        "key": "s-gan-villa/sg_c4",
+        "group": "As built · March 2026",
+        "caption": "Kitchen — patterned backsplash"
+      },
+      {
+        "key": "s-gan-villa/sg_c1",
+        "group": "As built · March 2026",
+        "caption": "Street front with the new gable roof"
+      },
+      {
+        "key": "s-gan-villa/sg_c7",
+        "group": "As built · March 2026",
+        "caption": "Street front at dusk"
+      },
+      {
+        "key": "s-gan-villa/sg_c8",
+        "group": "As built · March 2026",
+        "caption": "Completed street elevation"
+      },
+      {
+        "key": "s-gan-villa/sg_c10",
+        "group": "As built · March 2026",
+        "caption": "Kitchen detail"
+      },
+      {
+        "key": "s-gan-villa/sg_c12",
+        "group": "As built · March 2026",
+        "caption": "Arrival from the street"
+      },
+      {
+        "key": "s-gan-villa/sg_r1",
+        "group": "3D design proposal",
+        "caption": "Design — street elevation render"
+      },
+      {
+        "key": "s-gan-villa/sg_r2",
+        "group": "3D design proposal",
+        "caption": "Design — first-floor bedroom"
+      },
+      {
+        "key": "s-gan-villa/sg_r3",
+        "group": "3D design proposal",
+        "caption": "Design — first-floor bath"
+      },
+      {
+        "key": "s-gan-villa/sg_r4",
+        "group": "3D design proposal",
+        "caption": "Design — living & TV wall"
+      },
+      {
+        "key": "s-gan-villa/sg_b1",
+        "group": "Existing house · October 2025",
+        "caption": "Existing house — street front"
+      },
+      {
+        "key": "s-gan-villa/sg_b2",
+        "group": "Existing house · October 2025",
+        "caption": "Existing interiors"
+      },
+      {
+        "key": "s-gan-villa/sg_b3",
+        "group": "Existing house · October 2025",
+        "caption": "Existing staircase"
+      },
+      {
+        "key": "s-gan-villa/sg_b4",
+        "group": "Existing house · October 2025",
+        "caption": "Existing rooms"
+      },
+      {
+        "key": "s-gan-villa/sg_p1",
+        "group": "Strip-out & structural works · December 2025",
+        "caption": "Strip-out in progress"
+      },
+      {
+        "key": "s-gan-villa/sg_p2",
+        "group": "Strip-out & structural works · December 2025",
+        "caption": "New openings"
+      },
+      {
+        "key": "s-gan-villa/sg_p3",
+        "group": "Strip-out & structural works · December 2025",
+        "caption": "Structural works on site"
+      },
+      {
+        "key": "s-gan-villa/sg_p4",
+        "group": "Strip-out & structural works · December 2025",
+        "caption": "Re-servicing the house"
+      }
+    ],
+    "transformation": [
+      "s-gan-villa/sg_b1",
+      "s-gan-villa/sg_p1",
+      "s-gan-villa/sg_c1"
+    ]
+  },
+  {
+    "slug": "strata-yercaud",
+    "title": "Strata — Yercaud",
+    "location": "Yercaud, Shevaroy Hills",
+    "sector": "hospitality-commercial",
+    "featured": true,
+    "order": 2,
+    "services": [
+      "architecture",
+      "interior-design"
+    ],
+    "facts": {
+      "Client": "Mr. Shankar, Kumbakonam",
+      "Typology": "Boutique hill hotel",
+      "Scope": "Architecture & Interior Design",
+      "Site area": "4,287 sq.ft",
+      "Built-up area": "6,677 sq.ft · Stilt + 3 floors",
+      "Height": "12 m",
+      "Status": "Design development, 2026"
+    },
+    "summary": "Like layers of rock on a hillside, Strata stacks offset volumes up a steep Yercaud slope — eight named suites, timber jaali screens and terraces opening to forest and valley.",
+    "body": [
+      "Like layers of rock on a hillside, Strata stacks a series of offset volumes up a steep Yercaud slope. Each level steps and cantilevers to open its rooms to the forest and valley, while pitched timber roofs, deep balconies and curved glazing respond to the cool, misty hill climate.",
+      "The latest design revision (R2) sharpens the identity of Strata Luxury Stay: crisp white volumes, slender sloping roof canopies, timber jaali screens that filter light and give privacy to the suites, planted terraces and a bridge-like circulation stair linking the stacked blocks.",
+      "Eight individually named suites — the Moss, Pine and Ridge Strata Nests, the Mist, Fern, Canopy and Brook Strata Vistas and the Summit Strata Signature — sit above a stilt parking level. Guests arrive at a reception lounge, and the whole building culminates in a dining hall and kitchens on the top floor with panoramic views."
+    ],
+    "features": [
+      "8 named guest suites over 3 floors",
+      "Stilt parking for the steep site",
+      "Timber jaali screens & planted terraces",
+      "Cantilevered balconies & sloping roof canopies",
+      "Top-floor dining with valley views",
+      "Full interior design of suites"
+    ],
+    "schedule": [
+      {
+        "floor": "Stilt floor",
+        "total": "1,938",
+        "rooms": [
+          [
+            "Parking",
+            "1,872"
+          ],
+          [
+            "Office room",
+            "66"
+          ]
+        ]
+      },
+      {
+        "floor": "First floor",
+        "total": "1,640",
+        "rooms": [
+          [
+            "Reception & waiting lounge",
+            "173"
+          ],
+          [
+            "Moss Strata Nest",
+            "247"
+          ],
+          [
+            "Mist Strata Vista",
+            "183"
+          ],
+          [
+            "Fern Strata Vista",
+            "162"
+          ],
+          [
+            "Staff room",
+            "95"
+          ],
+          [
+            "Toilets",
+            "246"
+          ],
+          [
+            "Corridor",
+            "535"
+          ]
+        ]
+      },
+      {
+        "floor": "Second floor",
+        "total": "1,395",
+        "rooms": [
+          [
+            "Pine Strata Nest",
+            "172"
+          ],
+          [
+            "Ridge Strata Nest",
+            "171"
+          ],
+          [
+            "Canopy Strata Vista",
+            "201"
+          ],
+          [
+            "Brook Strata Vista",
+            "198"
+          ],
+          [
+            "Balcony",
+            "60"
+          ],
+          [
+            "Toilets",
+            "221"
+          ],
+          [
+            "Corridor",
+            "371"
+          ]
+        ]
+      },
+      {
+        "floor": "Third floor",
+        "total": "1,704",
+        "rooms": [
+          [
+            "Summit Strata Signature",
+            "301"
+          ],
+          [
+            "Dining",
+            "507"
+          ],
+          [
+            "Kitchens",
+            "400"
+          ],
+          [
+            "Utility & storage",
+            "136"
+          ],
+          [
+            "Toilet",
+            "78"
+          ],
+          [
+            "Corridor",
+            "281"
+          ]
+        ]
+      }
+    ],
+    "cover": "strata-yercaud/str2_5",
+    "images": [
+      {
+        "key": "strata-yercaud/str2_5",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Front elevation — Strata Luxury Stay"
+      },
+      {
+        "key": "strata-yercaud/str2_1",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Corner view with landscaped edge"
+      },
+      {
+        "key": "strata-yercaud/str2_2",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Upper suites, jaali screens & roof canopies"
+      },
+      {
+        "key": "strata-yercaud/str2_7",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Street elevation with stilt parking"
+      },
+      {
+        "key": "strata-yercaud/str2_6",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Stacked volumes & planted balconies"
+      },
+      {
+        "key": "strata-yercaud/str2_3",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Aerial — terraces stepping up the slope"
+      },
+      {
+        "key": "strata-yercaud/str2_4",
+        "group": "Latest design · R2 · November 2026",
+        "caption": "Aerial from the forest side"
+      },
+      {
+        "key": "strata-yercaud/st_6",
+        "group": "Earlier design option · R1",
+        "caption": "Front elevation in the forest"
+      },
+      {
+        "key": "strata-yercaud/st_2",
+        "group": "Earlier design option · R1",
+        "caption": "Aerial — terraces over stilt parking"
+      },
+      {
+        "key": "strata-yercaud/st_3",
+        "group": "Earlier design option · R1",
+        "caption": "Terraces & bridge"
+      },
+      {
+        "key": "strata-yercaud/st_4",
+        "group": "Earlier design option · R1",
+        "caption": "Cantilevered suites"
+      },
+      {
+        "key": "strata-yercaud/st_7",
+        "group": "Earlier design option · R1",
+        "caption": "Curved balconies & suite terraces"
+      },
+      {
+        "key": "strata-yercaud/st_5",
+        "group": "Suite interiors",
+        "caption": "Suite interior — corner window to the forest"
+      },
+      {
+        "key": "strata-yercaud/st_8",
+        "group": "Suite interiors",
+        "caption": "Suite interior — curved bay window"
+      },
+      {
+        "key": "strata-yercaud/st_p0",
+        "group": "Floor plans · Stilt + 3",
+        "caption": "Stilt floor — parking & office"
+      },
+      {
+        "key": "strata-yercaud/st_p1",
+        "group": "Floor plans · Stilt + 3",
+        "caption": "First floor — reception, Moss Nest, Mist & Fern Vistas"
+      },
+      {
+        "key": "strata-yercaud/st_p2",
+        "group": "Floor plans · Stilt + 3",
+        "caption": "Second floor — Pine & Ridge Nests, Canopy & Brook Vistas"
+      },
+      {
+        "key": "strata-yercaud/st_p3",
+        "group": "Floor plans · Stilt + 3",
+        "caption": "Third floor — Summit Signature suite, dining & kitchens"
+      }
+    ]
+  },
+  {
+    "slug": "aravindhan-residence",
+    "title": "Mr. Aravindhan Residence",
+    "location": "Tamil Nadu",
+    "sector": "residential",
+    "order": 3,
+    "services": [
+      "architecture",
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Residential façade renovation",
+      "Scope": "Elevation redesign · Interiors"
+    },
+    "summary": "A dated two-storey house given a crisp new identity without rebuilding it.",
+    "body": [
+      "A dated two-storey house given a crisp new identity without rebuilding it. The proposal keeps the existing frame and re-composes the façade around a cantilevered sloping canopy, a projecting first-floor balcony and deep timber-slatted gates, finished in a restrained palette of powder blue and charcoal.",
+      "Concealed wall-washers and up-lights make the house glow at dusk, while new compound walls and planting tidy the street edge. Inside, a back-lit marble-finish TV wall with fluted timber and display niches sets the tone for the living spaces."
+    ],
+    "features": [
+      "Façade upgrade on the existing structure",
+      "Cantilevered canopy & slatted timber gates",
+      "Architectural lighting scheme",
+      "Living-room joinery & TV wall"
+    ],
+    "cover": "aravindhan-residence/ar_1",
+    "images": [
+      {
+        "key": "aravindhan-residence/ar_1",
+        "caption": "Proposed elevation"
+      },
+      {
+        "key": "aravindhan-residence/ar_2",
+        "caption": "Existing elevation"
+      },
+      {
+        "key": "aravindhan-residence/ar_3",
+        "caption": "Living — back-lit TV unit"
+      }
+    ]
+  },
+  {
+    "slug": "residences-tamil-nadu",
+    "title": "Residences across Tamil Nadu",
+    "location": "Dindigul · Theni · Mayiladuthurai · Swamimalai",
+    "sector": "residential",
+    "order": 4,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Typology": "Independent houses",
+      "Scope": "Architecture · Elevation design"
+    },
+    "summary": "Individual homes tuned to plot, budget and family — confident street presence, practical, ventilated and Vastu-aware plans.",
+    "body": [
+      "A selection of individual homes across Tamil Nadu, each tuned to its plot, budget and family. Strong framing elements, natural stone and timber cladding, and carefully placed openings give modest footprints a confident street presence, while plans stay practical, ventilated and Vastu-aware.",
+      "**Mr. RK Residence, Dindigul** — a two-storey home with stacked natural-stone cladding, a deep black portal frame and a timber-lined porch that glows at dusk. A slatted roof pergola and landscaped front edge complete the street elevation.",
+      "**Mr. Dinesh Residence, Theni** — slender vertical glazing, timber accents and a lit fin wall give a compact house a strong vertical identity among the banana groves.",
+      "**Mr. Kannan Residence, Mayiladuthurai** — a single-storey family home with a framed entrance portal, timber-clad accents and a tall feature column that lifts the low street elevation.",
+      "**R.V. Bhavanam (Mr. Lokesh Residence), Swamimalai** — a two-storey home in bold festive colours — a red frame and a yellow stair tower — that gives the family a joyful, instantly recognisable address."
+    ],
+    "features": [
+      "Plot- and budget-tuned planning",
+      "Natural stone & timber cladding",
+      "Vastu-aware, cross-ventilated layouts",
+      "Dusk lighting for street presence"
+    ],
+    "cover": "residences-tamil-nadu/rk_1",
+    "images": [
+      {
+        "key": "residences-tamil-nadu/rk_1",
+        "group": "Dindigul",
+        "caption": "Mr. RK Residence, Dindigul"
+      },
+      {
+        "key": "residences-tamil-nadu/dn_1",
+        "group": "Theni",
+        "caption": "Mr. Dinesh Residence, Theni"
+      },
+      {
+        "key": "residences-tamil-nadu/dn_2",
+        "group": "Theni",
+        "caption": "Mr. Dinesh Residence — front elevation"
+      },
+      {
+        "key": "residences-tamil-nadu/kn_1",
+        "group": "Mayiladuthurai",
+        "caption": "Mr. Kannan Residence, Mayiladuthurai"
+      },
+      {
+        "key": "residences-tamil-nadu/kn_2",
+        "group": "Mayiladuthurai",
+        "caption": "Mr. Kannan Residence — corner view"
+      },
+      {
+        "key": "residences-tamil-nadu/lk_1",
+        "group": "Swamimalai",
+        "caption": "R.V. Bhavanam, Swamimalai"
+      },
+      {
+        "key": "residences-tamil-nadu/lk_2",
+        "group": "Swamimalai",
+        "caption": "R.V. Bhavanam — street view"
+      },
+      {
+        "key": "residences-tamil-nadu/lk_3",
+        "group": "Swamimalai",
+        "caption": "R.V. Bhavanam — corner view"
+      }
+    ]
+  },
+  {
+    "slug": "lakeside-farmhouse",
+    "title": "Lakeside Farmhouse",
+    "location": "Lakeside estate",
+    "sector": "residential",
+    "order": 5,
+    "services": [
+      "architecture",
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "Farmhouse & landscape",
+      "Scope": "Architecture · Landscape design"
+    },
+    "summary": "A weekend retreat set into a wooded, sloping lakeside site, with the landscape designed as part of the architecture.",
+    "body": [
+      "A weekend retreat set into a wooded, sloping lakeside site. A glazed double-height entrance volume and a long timber-clad pavilion sit lightly in the landscape, opening the living spaces to the water and the forest edge.",
+      "The landscape is designed as part of the architecture: a gravel forecourt for arrival, terraced lawns, flowering borders and a winding drive that steps down the slope towards the lake, lit softly at night."
+    ],
+    "features": [
+      "Glazed entrance volume & timber pavilion",
+      "Terraced lawns following the natural slope",
+      "Lakeside views from every living space",
+      "Integrated landscape & lighting design"
+    ],
+    "cover": "lakeside-farmhouse/fh_1",
+    "images": [
+      {
+        "key": "lakeside-farmhouse/fh_1",
+        "caption": "Arrival forecourt"
+      },
+      {
+        "key": "lakeside-farmhouse/fh_2",
+        "caption": "Aerial view"
+      },
+      {
+        "key": "lakeside-farmhouse/fh_3",
+        "caption": "View across the lake"
+      },
+      {
+        "key": "lakeside-farmhouse/fh_4",
+        "caption": "Pavilion in the forest edge"
+      }
+    ]
+  },
+  {
+    "slug": "mixed-use-development",
+    "title": "Mixed Use Development",
+    "location": "Urban high-rise",
+    "sector": "hospitality-commercial",
+    "order": 6,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Typology": "Residential towers over commercial podium",
+      "Scope": "Architecture · Master planning"
+    },
+    "summary": "Three residential towers rise from a landscaped commercial podium, linked by sky-bridges and glazed circulation cores.",
+    "body": [
+      "Three high-rise residential towers rise from a landscaped commercial podium. Cylindrical glazed circulation cores and aerial sky-bridges link the towers at upper levels, giving residents shared terraces and alternative routes between blocks.",
+      "A palm-lined ramped drive separates vehicles from pedestrians, while podium gardens, generous balconies and a disciplined façade rhythm bring greenery, daylight and cross-ventilation into a dense urban plot."
+    ],
+    "features": [
+      "Three towers on a shared podium",
+      "Sky-bridges & circular glazed cores",
+      "Landscaped podium & ramped arrival",
+      "Balconies to every apartment"
+    ],
+    "cover": "mixed-use-development/mu_1",
+    "images": [
+      {
+        "key": "mixed-use-development/mu_1",
+        "caption": "Sky-bridge & circulation core"
+      },
+      {
+        "key": "mixed-use-development/mu_2",
+        "caption": "Aerial — towers over landscaped podium"
+      },
+      {
+        "key": "mixed-use-development/mu_3",
+        "caption": "Palm-lined arrival drive"
+      },
+      {
+        "key": "mixed-use-development/mu_4",
+        "caption": "Tower façade rhythm"
+      },
+      {
+        "key": "mixed-use-development/mu_5",
+        "caption": "Podium terrace"
+      }
+    ]
+  },
+  {
+    "slug": "tata-corporate-office",
+    "title": "TATA Corporate Office",
+    "location": "Corporate campus",
+    "sector": "hospitality-commercial",
+    "order": 7,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Typology": "Corporate office",
+      "Scope": "Architecture · Visualisation"
+    },
+    "summary": "A curved, fully glazed office block wrapped in blue solar fins, with a sweeping cantilevered entrance canopy.",
+    "body": [
+      "A curved, fully glazed office block wrapped in a rhythm of blue vertical fins and horizontal louvres that shade the workfloors and express the brand colour. A sweeping cantilevered canopy on slender columns marks the entrance and shelters the drop-off.",
+      "A solid brand tower and a glazed service core anchor the composition against the hills, while open-plan floors behind the curved façade allow flexible workplace layouts."
+    ],
+    "features": [
+      "Curved glass façade with solar fins",
+      "Cantilevered entrance canopy",
+      "Flexible open-plan workfloors",
+      "Brand tower as landmark"
+    ],
+    "cover": "tata-corporate-office/tt_1",
+    "images": [
+      {
+        "key": "tata-corporate-office/tt_1",
+        "caption": "Entrance canopy & curved glazed façade"
+      },
+      {
+        "key": "tata-corporate-office/tt_2",
+        "caption": "Side view — service tower"
+      }
+    ]
+  },
+  {
+    "slug": "thozhi-womens-hostel",
+    "title": "Thozhi Women's Hostel",
+    "location": "Cuddalore, Tamil Nadu",
+    "sector": "hospitality-commercial",
+    "order": 8,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Typology": "Working women's hostel",
+      "Scope": "Architecture"
+    },
+    "summary": "A safe, bright and efficient residence for working women, with a bold terracotta-banded corner volume.",
+    "body": [
+      "A safe, bright and efficient residence for working women. The three-storey block is organised around a sheltered entrance porch and a clear central stair, with rooms arranged for privacy, cross-ventilation and easy supervision.",
+      "A bold terracotta-banded corner volume, tall vertical glazing lighting the circulation and framed windows give rhythm and identity to an otherwise economical building."
+    ],
+    "features": [
+      "Secure single entry with sheltered porch",
+      "Naturally ventilated rooms",
+      "Daylit stair & circulation",
+      "Cost-efficient, low-maintenance finishes"
+    ],
+    "cover": "thozhi-womens-hostel/th_1",
+    "images": [
+      {
+        "key": "thozhi-womens-hostel/th_1",
+        "caption": "Corner view — terracotta-banded stair volume"
+      },
+      {
+        "key": "thozhi-womens-hostel/th_2",
+        "caption": "Front elevation"
+      },
+      {
+        "key": "thozhi-womens-hostel/th_3",
+        "caption": "Side view"
+      }
+    ]
+  },
+  {
+    "slug": "alpha-multispeciality-hospital",
+    "title": "Alpha Multispeciality Hospital",
+    "location": "Healthcare",
+    "sector": "healthcare-institutional",
+    "featured": true,
+    "order": 9,
+    "services": [
+      "architecture",
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Multispeciality hospital",
+      "Scope": "Architecture · Interiors"
+    },
+    "summary": "A multi-storey hospital with a calm, legible presence — timber-toned louvres shading the wards, planning that follows clinical flow.",
+    "body": [
+      "A multi-storey hospital with a calm, legible presence. Angled frames of timber-toned louvres drift across the façade, shading ward windows from the sun and giving the building a memorable identity on the street, while the clearly expressed ground floor separates the main and emergency entrances.",
+      "Planning follows clinical flow — public reception and outpatient areas at the base, wards and treatment above. Interiors favour clean, washable surfaces and natural light: a generous reception spine, warm consultation lounges and well-organised day-care wards."
+    ],
+    "features": [
+      "Separate main & emergency entries",
+      "Louvred façade shading ward windows",
+      "Clear reception & circulation spine",
+      "Hygienic, low-maintenance interiors"
+    ],
+    "cover": "alpha-multispeciality-hospital/ah_1",
+    "images": [
+      {
+        "key": "alpha-multispeciality-hospital/ah_1",
+        "caption": "Louvred façade"
+      },
+      {
+        "key": "alpha-multispeciality-hospital/ah_2",
+        "caption": "Front elevation — main & emergency entrances"
+      },
+      {
+        "key": "alpha-multispeciality-hospital/ah_3",
+        "caption": "Dusk view"
+      },
+      {
+        "key": "alpha-multispeciality-hospital/ah_4",
+        "caption": "Consultation lounge"
+      },
+      {
+        "key": "alpha-multispeciality-hospital/ah_5",
+        "caption": "Day-care ward"
+      },
+      {
+        "key": "alpha-multispeciality-hospital/ah_6",
+        "caption": "Reception & circulation spine"
+      }
+    ]
+  },
+  {
+    "slug": "architectural-institute",
+    "title": "Architectural Institute",
+    "location": "Academic campus",
+    "sector": "healthcare-institutional",
+    "order": 10,
+    "services": [
+      "architecture",
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "School of architecture",
+      "Scope": "Campus planning · Architecture"
+    },
+    "summary": "A campus for an architecture school that teaches through its own buildings — brick, jaali, folded steel and daylight.",
+    "body": [
+      "A campus for an architecture school that teaches through its own buildings. Exposed brick academic blocks with jaali screens filter light and air into classrooms, while an auditorium under an undulating roof gives the campus a civic heart.",
+      "A studio wing of folded steel frames and full-height glazing floods the drawing studios with daylight, and an open-air amphitheatre beneath a steel lattice canopy hosts juries and events — all tied together by shaded pergola walks and courts."
+    ],
+    "features": [
+      "Brick & jaali academic blocks",
+      "Auditorium with undulating roof",
+      "Daylit design studios",
+      "Amphitheatre under lattice canopy"
+    ],
+    "cover": "architectural-institute/ai_4",
+    "images": [
+      {
+        "key": "architectural-institute/ai_4",
+        "caption": "Auditorium under the undulating roof"
+      },
+      {
+        "key": "architectural-institute/ai_1",
+        "caption": "Academic block — brick & jaali"
+      },
+      {
+        "key": "architectural-institute/ai_2",
+        "caption": "Amphitheatre canopy"
+      },
+      {
+        "key": "architectural-institute/ai_3",
+        "caption": "Studio wing — folded frames"
+      },
+      {
+        "key": "architectural-institute/ai_5",
+        "caption": "Pavilion hall"
+      },
+      {
+        "key": "architectural-institute/ai_6",
+        "caption": "Brick drum with jaali screen"
+      }
+    ]
+  },
+  {
+    "slug": "performing-arts-centre",
+    "title": "Visual & Performing Arts Centre",
+    "location": "Cultural",
+    "sector": "healthcare-institutional",
+    "order": 11,
+    "services": [
+      "architecture",
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Performing arts centre",
+      "Scope": "Architecture · Interiors"
+    },
+    "summary": "An elliptical drum of punched openings housing a large auditorium for music, dance and theatre.",
+    "body": [
+      "An elliptical drum of punched openings houses a large auditorium for music, dance and theatre. The pure, curving form gives the building presence, while the regular window rhythm keeps it calm and timeless.",
+      "A dark, sculptural foyer prepares the audience for the performance; the auditorium is planned with raked seating, clear sightlines and acoustic wall treatment. Landscaped boulder gardens and broad entrance steps soften the arrival."
+    ],
+    "features": [
+      "Elliptical drum form",
+      "Large raked-seating auditorium",
+      "Sculptural foyer & gallery space",
+      "Landscaped arrival court"
+    ],
+    "cover": "performing-arts-centre/vp_1",
+    "images": [
+      {
+        "key": "performing-arts-centre/vp_1",
+        "caption": "Approach through the boulder garden"
+      },
+      {
+        "key": "performing-arts-centre/vp_2",
+        "caption": "Elliptical drum"
+      },
+      {
+        "key": "performing-arts-centre/vp_5",
+        "caption": "Foyer"
+      },
+      {
+        "key": "performing-arts-centre/vp_3",
+        "caption": "Auditorium — view from the stage"
+      },
+      {
+        "key": "performing-arts-centre/vp_4",
+        "caption": "Auditorium — view to the stage"
+      }
+    ]
+  },
+  {
+    "slug": "isro-campus-visualisation",
+    "title": "ISRO Campus Visualisation",
+    "location": "Space research campus",
+    "sector": "healthcare-institutional",
+    "order": 12,
+    "services": [
+      "architecture",
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "Research & visitor campus",
+      "Scope": "Master planning · Visualisation"
+    },
+    "summary": "A visionary master plan where ring-shaped, green-roofed buildings orbit landscaped courts like planetary paths.",
+    "body": [
+      "A visionary master plan for a space research and visitor campus. Ring-shaped buildings with green roofs orbit landscaped courts, echoing planetary paths and keeping each department connected to the next.",
+      "Launch-vehicle replicas, an arrival boulevard, extensive tree cover and wind turbines frame a campus about science, exploration and sustainability — visualised as a full aerial and eye-level walkthrough."
+    ],
+    "features": [
+      "Orbit-inspired ring buildings",
+      "Green roofs & landscaped courts",
+      "Launch-vehicle exhibit plaza",
+      "Renewable energy on site"
+    ],
+    "cover": "isro-campus-visualisation/isro_1",
+    "images": [
+      {
+        "key": "isro-campus-visualisation/isro_1",
+        "caption": "Ring buildings & landscaped courts"
+      },
+      {
+        "key": "isro-campus-visualisation/isro_2",
+        "caption": "Master plan — aerial"
+      },
+      {
+        "key": "isro-campus-visualisation/isro_3",
+        "caption": "Launch-vehicle exhibit"
+      },
+      {
+        "key": "isro-campus-visualisation/isro_4",
+        "caption": "Arrival boulevard"
+      },
+      {
+        "key": "isro-campus-visualisation/isro_5",
+        "caption": "Campus with wind turbines"
+      },
+      {
+        "key": "isro-campus-visualisation/isro_6",
+        "caption": "Campus skyline"
+      }
+    ]
+  },
+  {
+    "slug": "elidi-stadia",
+    "title": "Elidi Stadia",
+    "location": "Sports complex",
+    "sector": "public-landscape",
+    "featured": true,
+    "order": 13,
+    "services": [
+      "architecture",
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "Multi-sport stadium",
+      "Scope": "Architecture · Visualisation"
+    },
+    "summary": "A stadium conceived as an unfolding flower — white shell canopies overlap like petals around the bowl.",
+    "body": [
+      "A stadium conceived as an unfolding flower. Sculptural white shell canopies overlap like petals around the bowl, shading the stands while letting light and breeze pass through the gaps between them.",
+      "A full athletics track and football pitch sit within the bowl, with colour-coded seating tiers. Outside, reflecting pools, paved promenades, practice courts and landscaped lawns turn the stadium grounds into a public park on non-event days."
+    ],
+    "features": [
+      "Petal-shell canopy shading the stands",
+      "Athletics track & football pitch",
+      "Practice courts & reflecting pools",
+      "Grounds open as a public park"
+    ],
+    "cover": "elidi-stadia/eli_1",
+    "images": [
+      {
+        "key": "elidi-stadia/eli_1",
+        "caption": "The petal canopy from above"
+      },
+      {
+        "key": "elidi-stadia/eli_2",
+        "caption": "Approach across the water"
+      },
+      {
+        "key": "elidi-stadia/eli_3",
+        "caption": "Framed view through the shell"
+      },
+      {
+        "key": "elidi-stadia/eli_4",
+        "caption": "Stands & athletics track"
+      },
+      {
+        "key": "elidi-stadia/eli_5",
+        "caption": "Canopy detail"
+      },
+      {
+        "key": "elidi-stadia/eli_6",
+        "caption": "Promenade & grounds"
+      }
+    ]
+  },
+  {
+    "slug": "maritime-heritage-complex",
+    "title": "National Maritime Heritage Complex",
+    "location": "Gujarat",
+    "sector": "public-landscape",
+    "order": 14,
+    "services": [
+      "architecture",
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "Heritage & museum complex",
+      "Scope": "Master planning · Architecture"
+    },
+    "summary": "A master plan celebrating India's maritime history, organised around a radial plaza laid out like a ship's wheel.",
+    "body": [
+      "A master plan that celebrates India's maritime history. A radial plaza laid out like a ship's wheel organises the galleries and pavilions, each spoke leading visitors to a different chapter of the story.",
+      "A heritage promenade lined with lamp posts connects the plaza to full-scale ship exhibits along the water, and a dramatic illuminated gateway marks the entry to the complex."
+    ],
+    "features": [
+      "Ship's-wheel radial master plan",
+      "Galleries & thematic pavilions",
+      "Waterfront ship exhibits",
+      "Landmark entrance gateway"
+    ],
+    "cover": "maritime-heritage-complex/nh_3",
+    "images": [
+      {
+        "key": "maritime-heritage-complex/nh_3",
+        "caption": "Ship's-wheel plaza"
+      },
+      {
+        "key": "maritime-heritage-complex/nh_2",
+        "caption": "Master plan"
+      },
+      {
+        "key": "maritime-heritage-complex/nh_1",
+        "caption": "Illuminated entrance gateway"
+      },
+      {
+        "key": "maritime-heritage-complex/nh_4",
+        "caption": "Heritage promenade"
+      },
+      {
+        "key": "maritime-heritage-complex/nh_5",
+        "caption": "Waterfront ship exhibit"
+      }
+    ]
+  },
+  {
+    "slug": "pavilion-csa",
+    "title": "Pavilion at CSA",
+    "location": "Crescent School of Architecture, Chennai",
+    "sector": "public-landscape",
+    "order": 15,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Typology": "Campus pavilion",
+      "Scope": "Design · Visualisation"
+    },
+    "summary": "A forecourt canopy built from hundreds of small timber modules, branching like trees into a layered roof.",
+    "body": [
+      "A canopy for the school's forecourt, built up from hundreds of small timber modules. Tree-like columns branch into a layered roof that filters sunlight like a forest canopy, creating a shaded gathering space at the threshold of the campus.",
+      "The modular system allows the pavilion to be prefabricated, assembled by students and adapted over time."
+    ],
+    "features": [
+      "Modular timber kit of parts",
+      "Branching tree-like columns",
+      "Dappled shade for gathering"
+    ],
+    "cover": "pavilion-csa/pv_1",
+    "images": [
+      {
+        "key": "pavilion-csa/pv_1",
+        "caption": "Timber-module canopy at the entrance"
+      },
+      {
+        "key": "pavilion-csa/pv_2",
+        "caption": "Context model"
+      },
+      {
+        "key": "pavilion-csa/pv_3",
+        "caption": "Tree-like columns"
+      }
+    ]
+  },
+  {
+    "slug": "pond-park-sivakasi",
+    "title": "Pond Park at Sivakasi",
+    "location": "Sivakasi, Tamil Nadu",
+    "sector": "public-landscape",
+    "order": 16,
+    "services": [
+      "landscape"
+    ],
+    "facts": {
+      "Typology": "Public park & waterfront",
+      "Scope": "Landscape · Urban design"
+    },
+    "summary": "The edge of a town pond reclaimed as a family promenade — lawns, play, a kiosk and an illuminated landmark.",
+    "body": [
+      "The edge of a town pond reclaimed as a public promenade. Paved walks with heritage-style lamp posts and railings wrap the water, with lawns, planters and colourful seating along the way.",
+      "A children's play area, an ice-cream kiosk and an illuminated star sculpture — the park's selfie point — make it a family destination from morning walks to evening outings."
+    ],
+    "features": [
+      "Pond-edge promenade & railings",
+      "Children's play & lawns",
+      "Kiosk & seating plazas",
+      "Illuminated landmark sculpture"
+    ],
+    "cover": "pond-park-sivakasi/pp_3",
+    "images": [
+      {
+        "key": "pond-park-sivakasi/pp_3",
+        "caption": "Lawns, seating & play"
+      },
+      {
+        "key": "pond-park-sivakasi/pp_2",
+        "caption": "Aerial — promenade around the pond"
+      },
+      {
+        "key": "pond-park-sivakasi/pp_1",
+        "caption": "Illuminated star sculpture"
+      },
+      {
+        "key": "pond-park-sivakasi/pp_4",
+        "caption": "Kiosk at dusk"
+      },
+      {
+        "key": "pond-park-sivakasi/pp_5",
+        "caption": "Pond-edge promenade"
+      }
+    ]
+  },
+  {
+    "slug": "jithu-residence-interiors",
+    "title": "Mr. Jithu's Residence",
+    "location": "Cuttack, Odisha",
+    "sector": "interior",
+    "order": 17,
+    "services": [
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Residential interiors",
+      "Scope": "Interior design · Colour studies"
+    },
+    "summary": "Bedroom interiors explored across a family of colourways so the client could choose a mood before anything was built.",
+    "body": [
+      "Bedroom interiors explored across a family of colourways — sage, forest green, terracotta and ivory — so the client could choose a mood before anything was built.",
+      "Each variant keeps the same crafted elements: a ginkgo-leaf metal feature wall, back-lit mirror and display niches, a glossy full-height wardrobe, a compact study desk and a layered cove ceiling with concealed lighting."
+    ],
+    "features": [
+      "Five colourway options",
+      "Ginkgo-leaf feature wall",
+      "Back-lit niches & cove ceiling",
+      "Wardrobe & study joinery"
+    ],
+    "cover": "jithu-residence-interiors/jr_1",
+    "images": [
+      {
+        "key": "jithu-residence-interiors/jr_1",
+        "caption": "Forest green colourway"
+      },
+      {
+        "key": "jithu-residence-interiors/jr_2",
+        "caption": "Sage — wardrobe & study"
+      },
+      {
+        "key": "jithu-residence-interiors/jr_3",
+        "caption": "Terracotta colourway"
+      },
+      {
+        "key": "jithu-residence-interiors/jr_4",
+        "caption": "Ivory & terracotta"
+      },
+      {
+        "key": "jithu-residence-interiors/jr_5",
+        "caption": "Ivory & green"
+      },
+      {
+        "key": "jithu-residence-interiors/jr_6",
+        "caption": "Study desk & window"
+      }
+    ]
+  },
+  {
+    "slug": "church-interior-chromepet",
+    "title": "Church Interior",
+    "location": "Chromepet, Chennai",
+    "sector": "interior",
+    "order": 18,
+    "services": [
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Sacred interior",
+      "Scope": "Altar & sanctuary design · Two options"
+    },
+    "summary": "Two design options for a church sanctuary — warm timber panelling, gilded capitals and arched niches framing the altar.",
+    "body": [
+      "Two design options for a church sanctuary. Warm timber panelling, gilded capitals and arched niches frame the altar and bring a sense of dignity and warmth to the space.",
+      "Option A centres the crucifix on a deep maroon backdrop with gothic niches for statues; Option B sets it before a geometric stained-glass window flooded with daylight, beneath a chandelier."
+    ],
+    "features": [
+      "Altar, reredos & sanctuary design",
+      "Timber panelling & gilded detailing",
+      "Stained-glass feature window"
+    ],
+    "cover": "church-interior-chromepet/ch_1",
+    "images": [
+      {
+        "key": "church-interior-chromepet/ch_1",
+        "caption": "Option A — crucifix on maroon backdrop"
+      },
+      {
+        "key": "church-interior-chromepet/ch_2",
+        "caption": "Option B — stained-glass window"
+      }
+    ]
+  },
+  {
+    "slug": "archdais-interior-competition",
+    "title": "Archdais Interior Competition",
+    "location": "Competition entry",
+    "sector": "interior",
+    "order": 19,
+    "services": [
+      "interior-design"
+    ],
+    "facts": {
+      "Typology": "Residential interiors",
+      "Scope": "Kitchen · Living · Bath"
+    },
+    "summary": "Traditional South Indian colour and craft brought into a contemporary home — a bath that becomes a courtyard.",
+    "body": [
+      "A competition entry that brings traditional South Indian colour and craft into a contemporary home. The bath becomes a courtyard: a stone water wall, skylight, pebbles and a stepping-stone garden turn a daily routine into a calm ritual.",
+      "A brick-and-jaali living room glows under a coffered ceiling, and the kitchen pairs dark timber with a green-framed garden window. Hand-painted motifs tie the rooms together."
+    ],
+    "features": [
+      "Courtyard bath with water wall",
+      "Brick & jaali living room",
+      "Garden-window kitchen",
+      "Traditional motifs, modern planning"
+    ],
+    "cover": "archdais-interior-competition/ad_1",
+    "images": [
+      {
+        "key": "archdais-interior-competition/ad_1",
+        "caption": "Living — coffered ceiling"
+      },
+      {
+        "key": "archdais-interior-competition/ad_3",
+        "caption": "Bath courtyard — water wall"
+      },
+      {
+        "key": "archdais-interior-competition/ad_8",
+        "caption": "Bath courtyard — skylight & stepping stones"
+      },
+      {
+        "key": "archdais-interior-competition/ad_4",
+        "caption": "Living — brick & jaali"
+      },
+      {
+        "key": "archdais-interior-competition/ad_2",
+        "caption": "Kitchen"
+      },
+      {
+        "key": "archdais-interior-competition/ad_5",
+        "caption": "Bath — back-lit mirror"
+      },
+      {
+        "key": "archdais-interior-competition/ad_6",
+        "caption": "Kitchen from above"
+      },
+      {
+        "key": "archdais-interior-competition/ad_7",
+        "caption": "Water wall detail"
+      }
+    ]
+  },
+  {
+    "slug": "cubro-operating-theatre",
+    "title": "Cubro — Operating Theatre",
+    "location": "Nelson, New Zealand",
+    "sector": "technical",
+    "order": 20,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Client": "Cubro, New Zealand",
+      "Typology": "Modular operating theatre",
+      "Scope": "Working drawings · 10-sheet set"
+    },
+    "summary": "A complete, fabrication-ready working-drawing package for a modular operating theatre fit-out.",
+    "body": [
+      "A complete working-drawing package for a modular operating theatre fit-out. The set covers the general arrangement, floor and reflected ceiling plans, sections and wall elevations, and the nurse-station desk set-out.",
+      "Every drawing coordinates HPL wall panels, the laminar-flow ceiling, monitors, pass-boxes, medical gas and electrical services to millimetre precision, ready for factory fabrication and site installation."
+    ],
+    "features": [
+      "General arrangement & RCP",
+      "Sections & wall elevations",
+      "Joinery & desk set-out",
+      "Fabrication-ready detailing"
+    ],
+    "cover": "cubro-operating-theatre/cb_d1",
+    "images": [
+      {
+        "key": "cubro-operating-theatre/cb_d1",
+        "caption": "General arrangement"
+      },
+      {
+        "key": "cubro-operating-theatre/cb_d4",
+        "caption": "Sections AA'–CC'"
+      },
+      {
+        "key": "cubro-operating-theatre/cb_d2",
+        "caption": "Wall elevation 3"
+      },
+      {
+        "key": "cubro-operating-theatre/cb_d3",
+        "caption": "Nurse-station desk set-out"
+      },
+      {
+        "key": "cubro-operating-theatre/cb_d5",
+        "caption": "Reflected ceiling plan"
+      }
+    ]
+  },
+  {
+    "slug": "pitau-travertine-facade",
+    "title": "The Pitau — Travertine Façade",
+    "location": "New Zealand",
+    "sector": "technical",
+    "order": 21,
+    "services": [
+      "architecture"
+    ],
+    "facts": {
+      "Client": "The Tile People, Auckland",
+      "Typology": "Stone façade package",
+      "Scope": "Set-out drawings · 65 sheets"
+    },
+    "summary": "Panel-by-panel set-out drawings for a travertine façade — every stone numbered, every curve resolved in 3D.",
+    "body": [
+      "Panel-by-panel set-out drawings for a travertine stone façade. Every stone is numbered and dimensioned across plans, elevations and curved balcony profiles.",
+      "3D views of the curved panels resolve the tricky geometry before cutting, giving the fabricator and installer a precise, buildable package."
+    ],
+    "features": [
+      "65-sheet set-out package",
+      "Individually numbered stone panels",
+      "Curved balcony profiles in 3D"
+    ],
+    "cover": "pitau-travertine-facade/pt_d1",
+    "images": [
+      {
+        "key": "pitau-travertine-facade/pt_d1",
+        "caption": "Curved panels in 3D"
+      },
+      {
+        "key": "pitau-travertine-facade/pt_d2",
+        "caption": "Set-out elevation — panel numbering"
+      },
+      {
+        "key": "pitau-travertine-facade/pt_d3",
+        "caption": "Set-out plan & curved profiles"
+      },
+      {
+        "key": "pitau-travertine-facade/pt_d4",
+        "caption": "Set-out elevation"
+      }
+    ]
+  },
+  {
+    "slug": "prabu-residence-kumbakonam",
+    "title": "Mr. Prabu Residence",
+    "location": "Kumbakonam, Tamil Nadu",
+    "sector": "residential",
+    "featured": true,
+    "order": 2.5,
+    "services": [
+      "interior-design",
+      "architecture"
+    ],
+    "facts": {
+      "Client": "Mr. Prabu",
+      "Typology": "Traditional courtyard home",
+      "Scope": "Interior design · 3D visualisation",
+      "Status": "Design, November 2026"
+    },
+    "summary": "A courtyard home in Kumbakonam that brings the warmth of traditional Tamil architecture into everyday modern living.",
+    "body": [
+      "At the heart of the house is an open-to-sky courtyard — the mutram — framed by turned timber pillars and a carved timber cornice. Daylight falls into a sunken court with a stone planter at its centre, and every room opens back towards it.",
+      "The palette is rooted in the region: patterned floor tiles, a deep green dado, warm ivory walls, dark timber doors with brass detailing and a red arched niche carrying a hand-drawn kolam motif. Jaali windows and high clerestory openings keep the interiors bright and well ventilated.",
+      "The living room pairs this heritage character with contemporary comfort — a dark coffered timber ceiling, soft upholstered seating and a slim media wall suspended on brass chains, a quiet nod to the traditional oonjal swing."
+    ],
+    "features": [
+      "Open-to-sky courtyard with timber pillars",
+      "Patterned tile floors & green dado",
+      "Red arched niche with kolam motif",
+      "Coffered timber ceiling in the living room",
+      "Suspended media wall on brass chains",
+      "Jaali windows & clerestory ventilation"
+    ],
+    "cover": "prabu-residence-kumbakonam/pr_2",
+    "images": [
+      {
+        "key": "prabu-residence-kumbakonam/pr_2",
+        "group": "The courtyard",
+        "caption": "Open-to-sky courtyard with timber pillars"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_7",
+        "group": "The courtyard",
+        "caption": "Courtyard and the red kolam niche"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_6",
+        "group": "The courtyard",
+        "caption": "Timber beams framing the court"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_8",
+        "group": "The courtyard",
+        "caption": "View across the sunken court"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_9",
+        "group": "The courtyard",
+        "caption": "Towards the carved main door"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_1",
+        "group": "The courtyard",
+        "caption": "Arrival through the timber doorway"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_4",
+        "group": "Living",
+        "caption": "Living room with suspended media wall"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_3",
+        "group": "Living",
+        "caption": "Living room under the coffered timber ceiling"
+      },
+      {
+        "key": "prabu-residence-kumbakonam/pr_5",
+        "group": "Living",
+        "caption": "Living room opening to the hall"
+      }
+    ]
+  }
+]

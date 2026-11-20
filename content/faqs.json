@@ -1,0 +1,258 @@
+{
+  "categories": [
+    {
+      "id": "start",
+      "title": "Getting started"
+    },
+    {
+      "id": "fees",
+      "title": "Fees, cost & budget"
+    },
+    {
+      "id": "process",
+      "title": "Design process"
+    },
+    {
+      "id": "build",
+      "title": "Design + Build & construction"
+    },
+    {
+      "id": "interiors",
+      "title": "Interiors"
+    },
+    {
+      "id": "landscape",
+      "title": "Landscape"
+    },
+    {
+      "id": "approvals",
+      "title": "Approvals, Vastu & legal"
+    },
+    {
+      "id": "remote",
+      "title": "Clients abroad & other cities"
+    },
+    {
+      "id": "platform",
+      "title": "Our AI project platform"
+    }
+  ],
+  "items": [
+    {
+      "cat": "start",
+      "added": "2026-10-01",
+      "q": "How do I start a project with Kavinan Design Studio?",
+      "a": "Call or WhatsApp us, or fill in the contact form with a few details — location, plot or building size, what you want to build and your rough budget. We set up a first meeting (in person at Chennai or Kumbakonam, on site, or online), understand your brief and then send a written scope and fee proposal."
+    },
+    {
+      "cat": "start",
+      "added": "2026-10-01",
+      "q": "What should I bring to the first meeting?",
+      "a": "Whatever you have: the site plan or patta/FMB sketch, plot dimensions, photos of the site or existing house, a list of rooms you need, references you like (Instagram or Pinterest saves are perfect) and a realistic budget. If you have nothing yet, that's fine — the first meeting is about listening."
+    },
+    {
+      "cat": "start",
+      "added": "2026-10-01",
+      "q": "What types of projects do you take on?",
+      "a": "Independent houses and villas, renovations and extensions, apartments and interiors, farmhouses, boutique hotels and resorts, hospitals and clinics, hostels, offices, educational campuses, cultural buildings, parks and landscapes. We also prepare technical drawing packages for international clients."
+    },
+    {
+      "cat": "start",
+      "added": "2026-10-01",
+      "q": "Do you only work in Chennai and Kumbakonam?",
+      "a": "No. Our studios are in Chennai and Kumbakonam, and we work across Tamil Nadu — including Thanjavur, Trichy, Madurai, Dindigul, Theni, Mayiladuthurai, Cuddalore, Salem and Yercaud — and with clients across India and in New Zealand."
+    },
+    {
+      "cat": "start",
+      "added": "2026-10-01",
+      "q": "Is there a minimum project size?",
+      "a": "No fixed minimum. We happily take on a single-room interior or an elevation makeover as well as large buildings. The scope and fee are simply tailored to the size of the job."
+    },
+    {
+      "cat": "fees",
+      "added": "2026-10-01",
+      "q": "How are your architectural fees calculated?",
+      "a": "Fees are either a percentage of the construction cost or a lump-sum/per-square-foot fee, depending on the project type and scope (architecture only, architecture + interiors, or full design-and-build). We always give you a written fee proposal with stage-wise payments before work begins — no surprises."
+    },
+    {
+      "cat": "fees",
+      "added": "2026-10-01",
+      "q": "How much will my house cost to build?",
+      "a": "Construction cost depends mostly on the built-up area, structure, number of floors, site conditions and — above all — the specification of finishes. At concept stage we give you an indicative cost range, and once drawings are ready we prepare a detailed BOQ so you can compare options and decide where to spend and where to save."
+    },
+    {
+      "cat": "fees",
+      "added": "2026-10-01",
+      "q": "Can you design within a fixed budget?",
+      "a": "Yes — tell us your budget at the start. We plan the size, structure and specification to suit it, and flag early if expectations and budget don't match. Designing to budget from day one is far cheaper than value-engineering later."
+    },
+    {
+      "cat": "fees",
+      "added": "2026-10-01",
+      "q": "Do you charge for the first consultation?",
+      "a": "The first introductory meeting to understand your requirement is free. Detailed site visits outside our base cities, measured surveys and design work begin once the fee proposal is accepted."
+    },
+    {
+      "cat": "fees",
+      "added": "2026-10-01",
+      "q": "How are payments structured?",
+      "a": "Design fees are paid in stages linked to deliverables (concept, approval drawings, working drawings, site stage). For design-and-build projects, construction payments follow a transparent stage-wise schedule tied to work completed on site."
+    },
+    {
+      "cat": "process",
+      "added": "2026-10-01",
+      "q": "What are the stages of your design process?",
+      "a": "Five clear stages: 1) Brief & site study, 2) Concept design, 3) Design development & 3D, 4) Working drawings, 5) Execution & handover. You review and approve at the end of each stage before we move on."
+    },
+    {
+      "cat": "process",
+      "added": "2026-10-01",
+      "q": "How long does the design take?",
+      "a": "For a typical independent house, concept to working drawings usually takes 6–10 weeks, depending on how quickly decisions are made. Larger buildings such as hotels or hospitals take longer. We share a design schedule at the start."
+    },
+    {
+      "cat": "process",
+      "added": "2026-10-01",
+      "q": "Will I see 3D views before construction?",
+      "a": "Yes. We create photo-real 3D views of the exterior and key interiors so you can see proportions, materials and colours before anything is built — and change your mind on screen, not on site."
+    },
+    {
+      "cat": "process",
+      "added": "2026-10-01",
+      "q": "How many design revisions are included?",
+      "a": "Reasonable revisions at each stage are part of the process — good design is a conversation. The number of included revisions is written into the fee proposal; major changes after approval (for example a new floor plan after working drawings) may be charged separately."
+    },
+    {
+      "cat": "process",
+      "added": "2026-10-01",
+      "q": "What drawings will I receive?",
+      "a": "Depending on scope: site plan, floor plans, elevations and sections, approval drawings, structural and MEP coordination drawings, electrical and plumbing layouts, door/window schedules, joinery and interior drawings, and detailed construction details."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "What does 'Design + Build' mean?",
+      "a": "It means one team takes responsibility for both the design and the construction. You get one contract, one point of contact and one budget — and no gap between what was drawn and what is built. S-Gan Villa in Chennai was delivered this way, from survey to handover in under six months."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "Can you renovate or extend my existing house?",
+      "a": "Yes — renovations and extensions are a big part of our work. We survey the existing structure, check what can be kept, strengthen where needed, re-service the wiring and plumbing, and add new floors or rooms. Many old houses can look entirely new without being demolished."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "Can I hire you only for design and use my own contractor?",
+      "a": "Absolutely. We can provide design and working drawings only, or add periodic site supervision to make sure your contractor builds to the drawings."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "How do you control quality on site?",
+      "a": "Through regular site visits, stage-wise quality checklists (reinforcement, concrete, waterproofing, electrical, plumbing, finishes), material approvals with samples, and photo progress reports. Nothing is closed up until it has been checked."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "How long does it take to build a house?",
+      "a": "A typical ground + one-floor independent house takes roughly 8–12 months to build, depending on size, site, weather and specification. A renovation can be much faster — S-Gan Villa took under six months from survey to handover."
+    },
+    {
+      "cat": "build",
+      "added": "2026-10-01",
+      "q": "Will I get updates if I can't visit the site often?",
+      "a": "Yes. We share regular photo and video updates on WhatsApp, along with progress against the schedule, upcoming decisions and payments due."
+    },
+    {
+      "cat": "interiors",
+      "added": "2026-10-01",
+      "q": "Do you do only interiors for apartments?",
+      "a": "Yes. We design and execute interiors for apartments, villas, offices and hospitality spaces — modular kitchens, wardrobes, TV units, false ceilings, lighting and loose furniture."
+    },
+    {
+      "cat": "interiors",
+      "added": "2026-10-01",
+      "q": "Can I choose between colour options?",
+      "a": "Yes. For important rooms we often prepare colourway studies — the same design shown in different palettes — so you can choose a mood before anything is made. Our Cuttack residence project explored five colourways this way."
+    },
+    {
+      "cat": "interiors",
+      "added": "2026-10-01",
+      "q": "Which materials do you recommend for kitchens and wardrobes?",
+      "a": "It depends on budget and use. We typically use moisture-resistant plywood or BWP carcasses with laminate, acrylic, PU or glass shutters, quartz or granite counters, and quality hardware. We explain the trade-offs so you choose what will last."
+    },
+    {
+      "cat": "landscape",
+      "added": "2026-10-01",
+      "q": "Do you design gardens for individual homes?",
+      "a": "Yes — from small front gardens, courtyards and terrace gardens to farmhouse estates. We plan planting, paving, water, lighting and drainage together with the house."
+    },
+    {
+      "cat": "landscape",
+      "added": "2026-10-01",
+      "q": "Do you design public parks and campuses?",
+      "a": "Yes. Our public-realm work includes the Pond Park at Sivakasi, the Elidi Stadia grounds, a maritime heritage master plan in Gujarat and campus landscapes for institutions."
+    },
+    {
+      "cat": "approvals",
+      "added": "2026-10-01",
+      "q": "Will you help with building plan approval?",
+      "a": "Yes. We prepare approval drawings as per the applicable Tamil Nadu building rules and local body norms (DTCP, CMDA or local panchayat/municipality), and guide you through the submission process."
+    },
+    {
+      "cat": "approvals",
+      "added": "2026-10-01",
+      "q": "Do you follow Vastu?",
+      "a": "On request, yes. Many of our clients want Vastu-aware plans, and we integrate those principles with good daylight, ventilation and practical planning — without compromising the design."
+    },
+    {
+      "cat": "approvals",
+      "added": "2026-10-01",
+      "q": "Do you design for sustainability and our climate?",
+      "a": "Always. We orient buildings for shade and breeze, use deep overhangs, jaali screens, courtyards and cross-ventilation, specify durable local materials and plan for rainwater harvesting and solar where possible."
+    },
+    {
+      "cat": "remote",
+      "added": "2026-10-01",
+      "q": "I live abroad. Can you manage my project in Tamil Nadu?",
+      "a": "Yes. Many clients are NRIs or live in other cities. We run meetings online, share 3D walkthroughs and drawings digitally, and send regular photo and video updates from site, so you can make decisions from anywhere."
+    },
+    {
+      "cat": "remote",
+      "added": "2026-10-01",
+      "q": "Do you provide drafting and documentation services for overseas firms?",
+      "a": "Yes. We prepare working drawings and set-out packages for international clients — for example a 10-sheet operating theatre fit-out set for Cubro and a 65-sheet travertine façade set-out for The Tile People in New Zealand."
+    },
+    {
+      "cat": "platform",
+      "added": "2026-10-24",
+      "q": "What is the Kavinan AI project and design management platform?",
+      "a": "It is an online workspace we are building for our projects. Clients, consultants and contractors will see the same latest drawings, decisions, schedule, site progress and payments in one place, with AI that summarises updates and flags anything that needs attention — so nothing gets lost in phone calls or WhatsApp threads."
+    },
+    {
+      "cat": "platform",
+      "added": "2026-10-24",
+      "q": "When will the platform be available?",
+      "a": "We are developing it now and will first pilot it on our ongoing projects before opening it to all clients. You can register for early access on the platform page and we will contact you when it is ready."
+    },
+    {
+      "cat": "platform",
+      "added": "2026-10-24",
+      "q": "Is the platform useful if I hire you only for design?",
+      "a": "Yes. Design-only clients will get the drawing register with every revision, design approvals and sign-offs, consultant comments and the design schedule — so your contractor always builds from the latest approved drawing. Design + supervision and design + build clients additionally get site reports, quality checks, progress, budget and payment tracking."
+    },
+    {
+      "cat": "platform",
+      "added": "2026-10-24",
+      "q": "Can my contractor and consultants use it too?",
+      "a": "Yes, that is the point. Structural, MEP and landscape consultants, contractors and vendors each get access to what they need — drawings, RFIs, approvals and tasks — so everyone works from one shared source of truth."
+    },
+    {
+      "cat": "platform",
+      "added": "2026-10-24",
+      "q": "Will the platform cost extra?",
+      "a": "We will share how access works for our clients and their project teams, along with any pricing, when the platform launches. Register for early access to be the first to know."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "architecture",
+    "num": "01",
+    "title": "Architecture",
+    "seo_title": "Architects in Chennai & Kumbakonam — Residential, Commercial & Institutional",
+    "seo_description": "Architectural design from site analysis to good-for-construction drawings — homes, villas, hotels, hospitals and campuses across Tamil Nadu. Kavinan Design Studio, Chennai & Kumbakonam.",
+    "lede": "Buildings of every scale, rooted in their site, climate and the way people live.",
+    "intro": "From a compact family home to a hill hotel, a hospital or a campus, we begin with listening — to the client, the site and the climate. Our architecture balances contemporary clarity with the warmth of tradition: deep shade, cross-ventilation, honest materials and plans that feel natural to live and work in.",
+    "includes": ["Site analysis, survey & feasibility", "Concept design & massing options", "Planning & statutory approval drawings", "Design development with 3D visualisation", "Good-for-construction (GFC) working drawings", "Structural & MEP coordination", "Vastu-aware planning on request", "Façade & elevation redesign for existing buildings"],
+    "deliverables": ["Concept presentation with 3D views", "Approval drawing set", "Working drawings, sections & details", "Door/window and finish schedules", "Area statements & BOQ inputs"],
+    "image": "strata-yercaud/st_6",
+    "projects": ["strata-yercaud", "s-gan-villa", "alpha-multispeciality-hospital", "architectural-institute", "residences-tamil-nadu", "mixed-use-development"]
+  },
+  {
+    "slug": "interior-design",
+    "num": "02",
+    "title": "Interior Design",
+    "seo_title": "Interior Designers in Chennai & Kumbakonam — Homes, Hotels & Workplaces",
+    "seo_description": "Interior design with space planning, modular kitchens, wardrobes, joinery, lighting and photo-real 3D visualisation. Design-and-execute interiors across Tamil Nadu by Kavinan Design Studio.",
+    "lede": "Interiors crafted through material, light and detail — and built exactly as drawn.",
+    "intro": "Good interiors are felt before they are seen. We plan rooms around daily rituals, then layer material, light and storage until every space works hard and feels calm. You see your home in photo-real 3D before anything is built — and our team can execute it on site.",
+    "includes": ["Space planning & furniture layouts", "Modular kitchens & wardrobes", "TV walls, crockery units & bespoke joinery", "Material, colour & finish palettes", "Lighting design — cove, accent & architectural", "False ceilings & feature walls", "Photo-real 3D renders & colourway studies", "Turnkey interior execution"],
+    "deliverables": ["Mood boards & 3D renders", "Joinery & furniture drawings", "Electrical & lighting layouts", "Ceiling plans & sections", "Material and finish specifications"],
+    "image": "strata-yercaud/st_5",
+    "projects": ["s-gan-villa", "jithu-residence-interiors", "archdais-interior-competition", "church-interior-chromepet", "strata-yercaud", "aravindhan-residence"]
+  },
+  {
+    "slug": "landscape",
+    "num": "03",
+    "title": "Landscape Design",
+    "seo_title": "Landscape Architects & Garden Designers in Tamil Nadu",
+    "seo_description": "Landscape design for homes, farmhouses, campuses, parks and public spaces — planting, hardscape, water features and lighting. Kavinan Design Studio, Chennai & Kumbakonam.",
+    "lede": "Landscape designed as part of the architecture — never an afterthought.",
+    "intro": "Courtyards, gardens, farmhouses, parks and campuses: we shape the ground so that buildings belong to it. Native planting, shade, water and soft lighting make outdoor spaces comfortable in our climate and easy to maintain through the seasons.",
+    "includes": ["Site grading & terracing", "Planting design with native species", "Hardscape — paving, steps, walls & pergolas", "Water features, ponds & reflecting pools", "Courtyards & terrace gardens", "Parks, promenades & public realm", "Landscape lighting", "Irrigation & drainage planning"],
+    "deliverables": ["Landscape master plan", "Planting plans & schedules", "Hardscape details", "Lighting layouts", "3D views of key spaces"],
+    "image": "strata-yercaud/st_2",
+    "projects": ["pond-park-sivakasi", "lakeside-farmhouse", "elidi-stadia", "maritime-heritage-complex", "isro-campus-visualisation", "architectural-institute"]
+  },
+  {
+    "slug": "project-management",
+    "num": "04",
+    "title": "Project Management",
+    "seo_title": "Construction Project Management & Site Supervision in Chennai",
+    "seo_description": "Cost planning, contractor coordination, scheduling, quality checks and site supervision through to handover. Construction project management by Kavinan Design Studio.",
+    "lede": "Design only matters when it is built well. We make sure it is.",
+    "intro": "We represent your interests on site. From tender and cost planning to weekly progress reviews, quality checks and final snag lists, our team keeps time, cost and quality in balance — and keeps you informed with clear, honest reporting at every stage.",
+    "includes": ["Cost planning & budget control", "BOQ preparation & tendering", "Contractor & vendor selection", "Scheduling & milestone tracking", "Site supervision & quality checks", "Material approvals & sampling", "Progress reporting with photos", "Snagging, testing & handover"],
+    "deliverables": ["Project schedule", "Cost plan & BOQ", "Weekly/fortnightly progress reports", "Quality checklists", "Handover documents & as-built drawings"],
+    "image": "strata-yercaud/st_7",
+    "projects": ["s-gan-villa", "strata-yercaud", "alpha-multispeciality-hospital", "cubro-operating-theatre", "pitau-travertine-facade"]
+  },
+  {
+    "slug": "design-build",
+    "num": "05",
+    "title": "Design + Build",
+    "seo_title": "Design and Build Construction Company in Chennai — Turnkey Homes & Renovations",
+    "seo_description": "Turnkey design-and-build delivery — new homes, renovations and extensions with one accountable team from first sketch to keys. Kavinan Design Studio, Chennai & Kumbakonam.",
+    "lede": "One studio, from idea to keys — one accountable team on site.",
+    "intro": "With design and construction under one roof, there is no gap between what is drawn and what is built. We take responsibility for the whole journey — survey, design, approvals, procurement, construction, interiors and handover — with one contract, one point of contact and one budget you can trust.",
+    "includes": ["Turnkey new-build homes & villas", "Renovation & extension of existing houses", "Structural strengthening & re-servicing", "Electrical & plumbing re-work", "Flooring, joinery & interior fit-out", "Procurement & logistics", "Single-point accountability", "Documented before → after handover"],
+    "deliverables": ["Fixed scope & transparent estimate", "Stage-wise payment schedule", "Construction programme", "Site photo updates", "Warranty & maintenance guidance"],
+    "image": "strata-yercaud/st_4",
+    "projects": ["s-gan-villa", "aravindhan-residence", "residences-tamil-nadu"]
+  }
+]

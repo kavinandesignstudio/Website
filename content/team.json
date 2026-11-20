@@ -1,0 +1,59 @@
+[
+  {
+    "name": "Ar. SRK",
+    "full_name": "Sivaramakrishnan S K",
+    "role": "Founder & Principal Architect",
+    "photo": "team/tm_srk",
+    "lead": true,
+    "bio": "Ar. SRK founded Kavinan Design Studio on a simple belief — that architecture should be rooted in its place and delivered with care. He leads the design of every project and stays involved from the first sketch to the last day on site.",
+    "email": "ar.srk@kavinandesignstudio.com"
+  },
+  {
+    "name": "Ar. Ridhima Vinay",
+    "role": "Associate Principal Architect",
+    "photo": "team/tm_ridhima",
+    "bio": "Guides design development and client coordination, shaping concepts into resolved, buildable architecture and interiors."
+  },
+  {
+    "name": "Ar. Bharath Munusamy",
+    "role": "Associate Principal Architect",
+    "photo": "team/tm_bharath",
+    "bio": "Steers projects from concept through working drawings, keeping design intent intact as each building moves to site."
+  },
+  {
+    "name": "Ar. Mohanapriya",
+    "role": "Project Architect",
+    "photo": "team/tm_mohana",
+    "bio": "Develops plans, 3D studies and drawing sets, and coordinates details between consultants, vendors and site."
+  },
+  {
+    "name": "Ar. Nivetha N",
+    "role": "Project Architect",
+    "photo": "team/tm_nivetha",
+    "bio": "Works across architecture and interiors — from space planning and material palettes to good-for-construction drawings."
+  },
+  {
+    "name": "Er. Venkata Krishna Prasad",
+    "role": "Draughtsman",
+    "photo": "team/tm_venkata",
+    "bio": "Produces precise working drawings and technical documentation, including set-out packages for international clients."
+  },
+  {
+    "name": "Miss. Shivaranjani Kannan",
+    "role": "Landscape Designer",
+    "photo": "team/tm_shiva",
+    "bio": "Designs gardens, courtyards, parks and planting schemes that treat landscape as part of the architecture."
+  },
+  {
+    "name": "Er. Kannan Sethuraman",
+    "role": "MEP Head",
+    "photo": "team/tm_kannan",
+    "bio": "Leads mechanical, electrical and plumbing design and coordination, so services are planned, concealed and built right."
+  },
+  {
+    "name": "Mrs. Kavitha Kannan",
+    "role": "Accounts Head",
+    "photo": "team/tm_kavitha",
+    "bio": "Manages project accounts, billing and procurement records, keeping budgets transparent for every client."
+  }
+]

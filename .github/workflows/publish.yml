@@ -1,0 +1,82 @@
+# Builds www.kavinandesignstudio.com and publishes it on GitHub Pages.
+#  • on every push to main            → rebuild & publish (your edits go live in ~1 minute)
+#  • every morning at 06:00 IST       → write new journal posts/FAQs from content/updates/ (if ANTHROPIC_API_KEY is set),
+#                                        commit them, then rebuild & publish (this also releases date-scheduled posts)
+#  • every Monday                     → also writes one evergreen guide from content/topics.txt
+#  • "Run workflow" button            → do it now
+name: Build & publish website
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "30 0 * * *"   # 06:00 IST
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Also write one evergreen guide from topics.txt"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # commit auto-written posts
+  pages: write      # publish to GitHub Pages
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Write journal articles & FAQs with Claude
+        if: github.event_name != 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          AUTO_PUBLISH: ${{ vars.AUTO_PUBLISH || 'true' }}
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "No ANTHROPIC_API_KEY secret — skipping automatic writing."; exit 0; fi
+          pip install --quiet anthropic
+          FLAG=""
+          if [ "$(TZ=Asia/Kolkata date +%u)" = "1" ] || [ "${{ inputs.topic }}" = "true" ]; then FLAG="--topic"; fi
+          python tools/auto_post.py $FLAG
+
+      - name: Commit new content
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "kds-publisher"
+          git config user.email "actions@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "No new content."
+          else
+            git commit -m "Auto-publish journal & FAQs ($(TZ=Asia/Kolkata date +%F))"
+            git push
+          fi
+
+      - name: Build site
+        run: python build.py
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
