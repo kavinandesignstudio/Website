@@ -51,7 +51,7 @@
   "form": {
     "provider": "web3forms",
     "endpoint": "https://api.web3forms.com/submit",
-    "access_key": "",
+    "access_key": "373e61e7-dffd-4a3c-a568-541857e41f3c",
     "_help": "Get a free access key at web3forms.com (enter kavinandesignstudio@gmail.com) and paste it above. Use provider 'netlify' with endpoint '' if you ever host on Netlify."
   },
   "analytics": {
