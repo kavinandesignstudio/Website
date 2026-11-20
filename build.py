@@ -24,6 +24,7 @@ Content you edit:
 import datetime as dt
 import html
 import json
+import os
 import re
 import shutil
 import sys
@@ -1576,6 +1577,32 @@ def build_offline():
     print(f"Offline copy: open {dest / 'index.html'} by double-clicking")
 
 
+# --------------------------------------------------------------------------- sub-folder hosting
+def apply_base(base):
+    """Prefix site-root links with a sub-folder, e.g. "/Website" when GitHub Pages serves the site at
+    username.github.io/Website/. The workflow sets SITE_BASE automatically from GitHub; with a custom
+    domain it is empty and nothing changes."""
+    base = "/" + base.strip("/")
+
+    def fix(url):
+        return base + url if url.startswith("/") and not url.startswith("//") and not url.startswith(base + "/") else url
+
+    for f in OUT.rglob("*.html"):
+        html = f.read_text(encoding="utf-8")
+        html = re.sub(r'((?:href|src|data-full|data-src|action)=")(/[^"]*)"', lambda m: m.group(1) + fix(m.group(2)) + '"', html)
+        html = re.sub(r'((?:srcset|data-srcset)=")([^"]*)"',
+                      lambda m: m.group(1) + ", ".join(" ".join([fix(p.strip().split(" ")[0])] + p.strip().split(" ")[1:])
+                                                       for p in m.group(2).split(",")) + '"', html)
+        f.write_text(html, encoding="utf-8")
+    mf = OUT / "manifest.webmanifest"
+    data = json.loads(mf.read_text(encoding="utf-8"))
+    data["start_url"] = base + "/"
+    for icon in data["icons"]:
+        icon["src"] = fix(icon["src"])
+    mf.write_text(json.dumps(data, indent=1), encoding="utf-8")
+    print(f"Links prefixed with {base}/ for sub-folder hosting")
+
+
 # --------------------------------------------------------------------------- main
 def main():
     if OUT.exists():
@@ -1593,6 +1620,9 @@ def main():
     build_platform()
     build_misc()
     build_feeds()
+    base = os.environ.get("SITE_BASE", "").strip()
+    if base.strip("/"):
+        apply_base(base)
     print(f"Built {len(SITEMAP)} pages into {OUT}  (date {TODAY}, {len(POSTS)} posts live, {len(SCHEDULED)} scheduled, {len(FAQ_ITEMS)} FAQs)")
     for p in reversed(SCHEDULED):
         print(f"  scheduled: {p['date']}  {p['title']}")
